@@ -1,3 +1,7 @@
+Repository:
+https://github.com/Tsoukkas/flower-inventory
+
+
 # Flower Inventory Management System (Laravel + SQL Server)
 
 This repository contains a Flower Inventory Management System developed using PHP (Laravel framework) and SQL Server. The application allows users to manage flowers and categories through full CRUD functionality and includes search and sorting features. The solution follows the requirements described in the Flower Inventory Assessment. :contentReference[oaicite:0]{index=0}
@@ -238,5 +242,5 @@ The project is correctly set up if:
 
 ## Author
 
-Anton Tsoukkas
+Antonis Tsoukkas
 Flower Inventory Assessment
